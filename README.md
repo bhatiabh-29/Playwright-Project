@@ -34,7 +34,7 @@ Debian 11, Debian 12, Ubuntu 20.04 or Ubuntu 22.04, with x86-64 or arm64 archite
 ## 1. Clone the Repository
 First, clone the repository to your local machine using the following command:
 ``` 
-git clone <repository-url>
+git clone <https://github.com/bhatiabh-29/Playwright-Project.git>
 cd <repository-directory>
 ```
 ## 2. Install Dependencies
